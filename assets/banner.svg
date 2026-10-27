@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title">
+<title id="title">Thanaphat.59 — Game Systems Developer</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07121f"/><stop offset="1" stop-color="#15112d"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".14"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ba4cd" stroke-opacity=".065"/></pattern>
+</defs>
+<rect width="1200" height="440" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="438" rx="21" fill="url(#grid)" stroke="#26344b"/>
+<ellipse cx="920" cy="190" rx="290" ry="250" fill="url(#glow)"/>
+<path d="M40 1H1160" stroke="url(#accent)" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="52" y="45" width="172" height="28" rx="14" fill="#102a36" stroke="#1e5261"/>
+<circle cx="69" cy="59" r="3.5" fill="#67e8f9"/>
+<text x="82" y="64" font-size="11" letter-spacing="1.7" fill="#9ee9f1">DEVELOPER PROFILE</text>
+<text x="52" y="151" fill="#eef4ff" font-size="68" font-weight="700" letter-spacing="-2">Thanaphat<tspan fill="#86d7fa">.59</tspan></text>
+<text x="55" y="194" fill="#b4c2db" font-size="19">Build the system. Power the game.</text>
+<path d="M55 225H647" stroke="#2b3852"/>
+<text x="55" y="261" fill="#69e3ee" font-size="12" letter-spacing="2">ONLINE GAME SYSTEMS</text>
+<text x="55" y="289" fill="#cad5ea" font-size="15">Web Development  /  Top-up Systems</text>
+<text x="55" y="315" fill="#cad5ea" font-size="15">Custom Scripts  /  Game Servers</text>
+<text x="55" y="392" fill="#70839e" font-size="12" letter-spacing="2">GITHUB.COM / KLINUX59</text>
+<rect x="764" y="93" width="371" height="249" rx="14" fill="#090f1d" stroke="#35415c"/>
+<path d="M764 130H1135" stroke="#26334b"/>
+<circle cx="783" cy="112" r="4" fill="#f48b9c"/><circle cx="798" cy="112" r="4" fill="#e7c77c"/><circle cx="813" cy="112" r="4" fill="#77d7bc"/>
+<text x="852" y="116" fill="#71839e" font-size="10" letter-spacing="1">SYSTEM ARCHITECTURE</text>
+<g font-family="Consolas,monospace" font-size="14">
+<text x="789" y="164" fill="#6ce4f2">const <tspan fill="#e3eafa">developer</tspan> = {</text>
+<text x="807" y="196" fill="#98a9c4">name: <tspan fill="#bda6fa">"Thanaphat.59"</tspan>,</text>
+<text x="807" y="228" fill="#98a9c4">focus: <tspan fill="#bda6fa">"game systems"</tspan>,</text>
+<text x="807" y="260" fill="#98a9c4">handle: <tspan fill="#bda6fa">"@Klinux59"</tspan></text>
+<text x="789" y="292" fill="#6ce4f2">};<tspan fill="#eef4ff"> _</tspan></text>
+</g>
+<text x="790" y="376" fill="#698199" font-size="10" letter-spacing="2">WEB → SYSTEMS → SERVERS</text>
+</g></svg>

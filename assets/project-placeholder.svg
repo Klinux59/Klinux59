@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+<title id="title">พื้นที่สำหรับรูปตัวอย่างผลงานของคุณ</title>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#31425c" stroke-opacity=".25"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="298" rx="16" fill="#0c1424" stroke="#30445f" stroke-dasharray="8 8"/>
+<rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#grid)"/>
+<g fill="none" stroke="#7f9bb9" stroke-width="2"><rect x="570" y="66" width="60" height="48" rx="6"/><circle cx="587" cy="80" r="5"/><path d="m574 108 16-16 11 10 11-12 14 18"/></g>
+<text x="600" y="158" text-anchor="middle" font-family="Segoe UI,Tahoma,sans-serif" font-size="22" fill="#b7cce7">เพิ่มรูปตัวอย่างผลงานของคุณ</text>
+<text x="600" y="194" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#6d88a9">PROJECT SCREENSHOT / GAMEPLAY / SYSTEM PREVIEW</text>
+<text x="600" y="249" text-anchor="middle" font-family="Segoe UI,Tahoma,sans-serif" font-size="14" fill="#7187a4">เปลี่ยนภาพนี้เป็นภาพจริงของโปรเจกต์เมื่อพร้อม</text>
+</svg>
