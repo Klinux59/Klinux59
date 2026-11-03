@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif?brand=k59-studio" width="100%" alt="K59 Studio — Game Systems Developer" />
+  <img src="./assets/k59-studio-banner.gif" width="100%" alt="K59 Studio — Game Systems Developer" />
 </p>
 
 <p align="center">
@@ -130,6 +130,6 @@ k59studio@workspace:~$ whoami
 **GitHub:** [@Klinux59](https://github.com/Klinux59)
 
 <p align="center">
-  <img src="./assets/footer.gif?brand=k59-studio" width="100%" alt="K59 Studio — Build the system. Power the game." />
+  <img src="./assets/k59-studio-footer.gif" width="100%" alt="K59 Studio — Build the system. Power the game." />
 </p>
 
