@@ -65,10 +65,10 @@ thanaphat@59:~$ whoami
 ### 02 / WEB DEVELOPMENT / BKK DETAILING
 
 **BKK Detailing — ระบบจัดการร้านดูแลรถยนต์และสมาชิก**  
-พัฒนาและออกแบบโดย **deserveStudio** · อัปเดต **2026**
+พัฒนาและออกแบบโดย **K59 Studio** · อัปเดต **2026**
 
 <p align="center">
-  <img src="./assets/projects/bkk-detailing.svg" width="100%" alt="ภาพประกอบผลงาน BKK Detailing โดย deserveStudio — ระบบสมาชิก โปรไฟล์รถ E-Warranty POS และรายรับรายจ่าย" />
+  <img src="./assets/projects/bkk-detailing.svg" width="100%" alt="ภาพประกอบผลงาน BKK Detailing โดย K59 Studio — ระบบสมาชิก โปรไฟล์รถ E-Warranty POS และรายรับรายจ่าย" />
 </p>
 
 ระบบเว็บสำหรับงานหน้าร้านและการดูแลลูกค้าหลังรับบริการ รวมข้อมูลสมาชิก รถ ประวัติบริการ และการรับประกันไว้ในระบบเดียว พร้อมหน้าลูกค้าสำหรับดูข้อมูลของตนเอง
@@ -83,7 +83,7 @@ thanaphat@59:~$ whoami
 | **เซิร์ฟเวอร์** | Windows Server · XAMPP / Apache · HTTPS |
 | **แนวทาง UI** | ดำคาร์บอน ขาวนวล และแดง พร้อมฟอนต์ Kanit รองรับมือถือ |
 | **สถานะ** | นำขึ้นเซิร์ฟเวอร์แล้ว อยู่ระหว่างทดสอบและปรับปรุงระบบจริง |
-| **เครดิต / ปีอัปเดต** | deserveStudio · 2026 |
+| **เครดิต / ปีอัปเดต** | K59 Studio · 2026 |
 
 **[เปิดเว็บไซต์ BKK Detailing →](https://bkkdetailing.projectfriends.net/customer-login)**
 
