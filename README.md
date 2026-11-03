@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Thanaphat.59 — Game Systems Developer" />
+  <img src="./assets/banner.gif?brand=k59-studio" width="100%" alt="K59 Studio — Game Systems Developer" />
 </p>
 
 <p align="center">
@@ -9,13 +9,13 @@
 
 <h2>01 <sub> / </sub> About me</h2>
 
-สวัสดีครับ ผม **Thanaphat.59** พัฒนาระบบสำหรับเกมออนไลน์ ตั้งแต่เว็บไซต์ ระบบเติมเงิน และสคริปต์ ไปจนถึงการเปิดเซิร์ฟเวอร์เกม โดยให้ความสำคัญกับการเชื่อมระบบต่าง ๆ ให้ทำงานร่วมกัน
+**K59 Studio** พัฒนาระบบสำหรับเกมออนไลน์ ตั้งแต่เว็บไซต์ ระบบเติมเงิน และสคริปต์ ไปจนถึงการเปิดเซิร์ฟเวอร์เกม โดยให้ความสำคัญกับการเชื่อมระบบต่าง ๆ ให้ทำงานร่วมกัน
 
 **Game systems · Web development · Top-up systems · Custom scripts · Game servers**
 
 ```text
-thanaphat@59:~$ whoami
-  name       Thanaphat.59
+k59studio@workspace:~$ whoami
+  name       K59 Studio
   handle     @Klinux59
   focus      Build systems for online gaming communities.
 ```
@@ -130,6 +130,6 @@ thanaphat@59:~$ whoami
 **GitHub:** [@Klinux59](https://github.com/Klinux59)
 
 <p align="center">
-  <img src="./assets/footer.gif" width="100%" alt="Thanaphat.59 — Build the system. Power the game." />
+  <img src="./assets/footer.gif?brand=k59-studio" width="100%" alt="K59 Studio — Build the system. Power the game." />
 </p>
 
