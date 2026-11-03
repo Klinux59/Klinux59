@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">BKK Detailing — deserveStudio portfolio</title><desc id="desc">Project illustration for a car detailing management system. PHP, Laravel, MySQL, Alpine.js and Tailwind CSS. Updated 2026.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#242628"/><stop offset="1" stop-color="#101112"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1280" height="640" rx="20" fill="url(#bg)"/><rect width="1280" height="640" rx="20" fill="url(#grid)"/>
+<path d="M60 68h22L61 100H39zM91 68h22L92 100H70z" fill="#ec1230"/>
+<text x="130" y="92" fill="#b5b7b8" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">SELECTED WORK / 2026</text>
+<text x="60" y="196" fill="#e5e5dc" font-family="Arial,sans-serif" font-size="66" font-weight="900" letter-spacing="-2">BKK</text><text x="60" y="272" fill="#e5e5dc" font-family="Arial,sans-serif" font-size="66" font-weight="900" letter-spacing="-2">DETAILING</text>
+<rect x="60" y="302" width="72" height="5" fill="#ec1230"/>
+<text x="60" y="351" fill="#d2d3ce" font-family="Arial,sans-serif" font-size="22">Car care. Connected.</text>
+<text x="60" y="390" fill="#949894" font-family="Arial,sans-serif" font-size="17">Customer portal + shop management</text>
+<text x="60" y="468" fill="#e5e5dc" font-family="Arial,sans-serif" font-size="16">LARAVEL / PHP / MYSQL</text><text x="60" y="496" fill="#949894" font-family="Arial,sans-serif" font-size="16">ALPINE.JS / TAILWIND CSS / VITE</text>
+<g transform="translate(650 108)">
+<rect width="560" height="424" rx="12" fill="#1c1e20" stroke="#424548"/><path d="M12 0h536a12 12 0 0 1 12 12v42H0V12A12 12 0 0 1 12 0" fill="#2a2c2e"/>
+<circle cx="24" cy="27" r="5" fill="#ec1230"/><circle cx="42" cy="27" r="5" fill="#ffcb27"/><circle cx="60" cy="27" r="5" fill="#39d6bb"/>
+<text x="94" y="32" fill="#e5e5dc" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">DETAILING WORKSPACE</text>
+<rect x="26" y="80" width="508" height="92" rx="5" fill="#e5e5dc"/><text x="47" y="113" fill="#17191a" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">MEMBER CLUB</text><text x="47" y="146" fill="#17191a" font-family="Arial,sans-serif" font-size="23" font-weight="700">Your car. Your profile.</text><path d="M440 80h18l-60 92h-18zM469 80h18l-60 92h-18zM498 80h18l-60 92h-18z" fill="#17191a"/>
+<g font-family="Arial,sans-serif"><rect x="26" y="190" width="246" height="94" rx="5" fill="#282b2d"/><text x="44" y="220" fill="#39d6bb" font-size="12" letter-spacing="1">01 / CUSTOMER</text><text x="44" y="255" fill="#e5e5dc" font-size="21" font-weight="700">Member profiles</text>
+<rect x="288" y="190" width="246" height="94" rx="5" fill="#ec1230"/><text x="306" y="220" fill="#ffffff" font-size="12" letter-spacing="1">02 / AFTERCARE</text><text x="306" y="255" fill="#ffffff" font-size="21" font-weight="700">E-Warranty</text>
+<rect x="26" y="300" width="246" height="94" rx="5" fill="#282b2d"/><text x="44" y="330" fill="#ffcb27" font-size="12" letter-spacing="1">03 / OPERATIONS</text><text x="44" y="365" fill="#e5e5dc" font-size="21" font-weight="700">POS + bookings</text>
+<rect x="288" y="300" width="246" height="94" rx="5" fill="#282b2d"/><text x="306" y="330" fill="#87bdf0" font-size="12" letter-spacing="1">04 / FINANCE</text><text x="306" y="365" fill="#e5e5dc" font-size="21" font-weight="700">Income + expenses</text></g></g>
+<path d="M60 567h1150" stroke="#3b3e40"/><text x="60" y="605" fill="#a6aaa5" font-family="Arial,sans-serif" font-size="15">PROJECT ILLUSTRATION</text><text x="1210" y="605" text-anchor="end" fill="#e5e5dc" font-family="Arial,sans-serif" font-size="19" font-weight="700">deserveStudio</text></svg>
